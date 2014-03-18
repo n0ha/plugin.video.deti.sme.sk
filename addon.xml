@@ -9,14 +9,14 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">Deti.sme.sk plugin</summary>
-    <description lang="en">Shows videos from deti.sme.sk page</description>
-    <disclaimer lang="en"></disclaimer>
-    <language></language>
+    <description lang="sk">Rodičia dohliadajú, deti sa zabávajú. Rozprávky, pesničky a videá z deti.sme.sk</description>
+    <disclaimer lang="sk"></disclaimer>
+    <language>SK</language>
     <platform>all</platform>
-    <license></license>
+    <license>GPL3</license>
     <forum></forum>
     <website></website>
-    <email></email>
-    <source></source>
+    <email>viktor.lieskovsky@gmail.com</email>
+    <source>https://github.com/n0ha/plugin.video.deti.sme.sk</source>
   </extension>
 </addon>
