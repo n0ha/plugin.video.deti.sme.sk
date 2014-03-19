@@ -7,7 +7,7 @@ Slovensky
 Plugin do XBMC pre zjednodušenie púštania rozprávok z deti.sme.sk.
 
 - Rozdelenie obsahu podľa veku dieťaťa
-- Rozdelenie na žánre: =rozprávky, pesničky a krátke videá
+- Rozdelenie na žánre: rozprávky, pesničky a krátke videá
 
 Inštalácia
 ----------
