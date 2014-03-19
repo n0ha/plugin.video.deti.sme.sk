@@ -4,7 +4,7 @@ Deti.sme.sk
 Slovensky
 ---------
 
-Plugin do XBMC pre zjednodušenie púštania rozprávok z deti.sme.sk.
+Plugin do XBMC pre pozeranie rozprávok z deti.sme.sk.
 
 - Rozdelenie obsahu podľa veku dieťaťa
 - Rozdelenie na žánre: rozprávky, pesničky a krátke videá
@@ -20,10 +20,10 @@ Inštalácia
 English
 -------
 
-XBMC plugin for easy access to fairy-tales from deti.sme.sk
+XBMC plugin for viewing content for children from deti.sme.sk
 
 - Select content based on child's age
-- Select content based on genre: fairy-tales, songs and short videos
+- Select content based on genre: stories, songs and short videos
 
 Installation
 ------------
