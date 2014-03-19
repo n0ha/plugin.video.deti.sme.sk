@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+  <string id="30001">for all kids</string>
+  <string id="30002">for smallest kids (age 0-3)</string>
+  <string id="30003">for preschool kids (age 4-6)</string>
+  <string id="30004">for school kids (age 7-10)</string>
+  <string id="30005">for teens (age 11+)</string>
+  <string id="30006">Short videos</string>
+  <string id="30007">Stories</string>
+  <string id="30008">Songs</string>
+</strings>

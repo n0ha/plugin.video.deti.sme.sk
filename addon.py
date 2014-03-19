@@ -3,10 +3,13 @@ import sys
 import urllib
 import urlparse
 import urllib2
+import xbmcaddon
 import xbmcgui
 import xbmcplugin
 import CommonFunctions
 
+addon = xbmcaddon.Addon()
+translation = addon.getLocalizedString
 common = CommonFunctions
 common.plugin = "deti.sme.sk xbmc plugin 0.0.1"
 
@@ -42,18 +45,18 @@ mode = args.get('mode', None)
 
 # toplevel folder
 if mode is None:
-    add_top_folder_item('-1', u"pre všetky deti")
-    add_top_folder_item('1', u"pre najmenšie deti (0-3 rokov)")
-    add_top_folder_item('2', u"pre škôlkárov (4-6 rokov)")
-    add_top_folder_item('3', u"pre školákov (7-10 rokov)")
-    add_top_folder_item('4', u"pre násťročných (11 rokov a viac)")
+    add_top_folder_item('-1', translation(30001))
+    add_top_folder_item('1', translation(30002))
+    add_top_folder_item('2', translation(30003))
+    add_top_folder_item('3', translation(30004))
+    add_top_folder_item('4', translation(30005))
     xbmcplugin.endOfDirectory(addon_handle)
 
 elif mode[0] == 'content':
     age = args["age"][0]
-    add_content_folder_item("video", age, u"Krátke videá")
-    add_content_folder_item("rozpravky", age, u"Rozprávky")
-    add_content_folder_item("pesnicky", age, u"Pesničky")
+    add_content_folder_item("video", age, translation(30006))
+    add_content_folder_item("rozpravky", age, translation(30007))
+    add_content_folder_item("pesnicky", age, translation(30008))
     xbmcplugin.endOfDirectory(addon_handle)
 
 # category folder

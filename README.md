@@ -12,9 +12,9 @@ Plugin do XBMC pre pozeranie rozprávok z deti.sme.sk.
 Inštalácia
 ----------
 
-1. Stiahni inštalačný zip: [v0.0.1.zip](https://github.com/n0ha/plugin.video.deti.sme.sk/archive/v0.0.1.zip)
+1. Tu nájdeš [najnovší zip](https://github.com/n0ha/plugin.video.deti.sme.sk/releases)
 2. V XBMC klikni na: Systém > Nastavenia > Doplnky > Inštalovať doplnky zo zip archívu
-3. Nájdi stiahnutý zip súbor a potvrď
+3. Vyhľadaj stiahnutý zip súbor
 
 
 English
@@ -28,9 +28,9 @@ XBMC plugin for viewing content for children from deti.sme.sk
 Installation
 ------------
 
-1. Download installation zip: [v0.0.1.zip](https://github.com/n0ha/plugin.video.deti.sme.sk/archive/v0.0.1.zip)
+1. Download [installation zip](https://github.com/n0ha/plugin.video.deti.sme.sk/releases)
 2. In XBMC, go to: System > Settings > Addons > Install from zip file
-3. Locate the downloaded zip, and confirm
+3. Locate the downloaded zip file
 
 
 Screenshots
